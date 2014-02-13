@@ -17,9 +17,11 @@ public class CD implements Serializable{
     private String titulo;
     private String interprete;
     private int identificador;
+    private int año;
+    private String Compañia;
     private ArrayList <Cancion> miLista = null;
     
-    //CONSTRUCTORAS
+    
     
     
     public CD (String titulo, String interprete, int identificador){

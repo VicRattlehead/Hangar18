@@ -20,12 +20,12 @@ public class Practica5 {
          MediatecaCds mediateca= new MediatecaCds();
          MediatecaCds mediateca2= new MediatecaCds();
          MediatecaCds mediateca3= new MediatecaCds();
-        mediateca.leerFichero("todo.txt");
+        mediateca.leerFichero("todo2.txt");
       //  System.out.println(mediateca);
         
         mediateca.escribirCds("cds.txt");
-        mediateca.mejoresCanciones("mejorescanciones.txt");
         System.out.println(1);
+        mediateca.mejoresCanciones("mejorescanciones.txt");
         mediateca.escribirFicheroBin("cd.dat");
         System.out.println(2);
         mediateca2.leerFicheroBin("cd.dat");
@@ -38,8 +38,6 @@ public class Practica5 {
           System.out.println(6);
            mediateca3.escribirCds("cds2.txt");
            Cancion prueba = new Cancion("where eagles dare",5.6);
-           prueba.setFecha(2027,65,34);
-           System.out.println(prueba.toString());
          
         
     }
