@@ -38,6 +38,7 @@ public class Practica5 {
           System.out.println(6);
            mediateca3.escribirCds("cds2.txt");
            Cancion prueba = new Cancion("where eagles dare",5.6);
+           System.out.println(3);
          
         
     }
