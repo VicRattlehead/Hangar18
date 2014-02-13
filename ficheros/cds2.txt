@@ -1,0 +1,169 @@
+70092	La oreja de Van Gogh	Lo que te conte mientras te hacias la dormida
+70056	Chenoa	Soy mujer
+70123	Medina Azahara	arabe
+70163	Sergio Dalma	Remix
+70157	Robbie Williams	Intensive Care
+70168	Tahures Zurdos	Nieve Negra
+70153	REM	Around the sun
+70141	Noa	Blue Touches Blue
+70101	Los Secretos	Grandes exitos
+70179	Malu	Desafio
+70004	Alex Ubago	Que pides tu
+70084	Joaquin Sabina	19 dias y 500 noches
+70019	Amistades Peligrosas	Grandes exitos
+70167	Shania Twain	Up
+70139	Mecano	Ya viene el sol
+70018	Alejandro	Perdido en el paraiso
+70107	Mecano	20 Grandes Canciones
+70110	Medina Azahara	La estacion de los suenyos
+70138	Nacho Cano	El lado femenino
+70129	Medina Azahara	En al Hakim
+70070	Eric Clapton	Unplugged
+70054	Varios	Celtic Collections Vol 2
+70093	La Quinta Estacion	Flores de alquiler
+70128	Medina Azahara	Donde esta la luz
+70102	Los Secretos	Solo para escuchar
+70177	La Oreja de Van Gogh	Guapa
+70109	Medina Azahara	Doble LP En Vivo
+70033	Bon Jovi	Bounce
+70143	Nirvana	Unplugged in New York
+70173	U2	How to Dismantle an atomic bomb
+70045	Bryan Adams	The best of me
+70016	Alanis Morissette	Jagged LittedPill
+70145	Noa	Calling
+70005	Alex Ubago	Fantasia
+70160	Roxette	The ballads hits
+70039	BSO	La mision
+70041	Bon Jovi	Crossroad
+70076	Gary Moore	Corridors of power
+70086	Juanes	Mi sangre
+70078	Gisela	Parte de mi
+70131	Medina Azahara	La esquina del viento
+70113	Miguel Bose	Lo mejor de
+70144	Queco - Manuel Ruiz	Ladron de lunas
+70135	Mikel Erentxu	Ciudades de paso
+70105	Marta Sanchez	Grandes exitos
+70002	Alejandro Sanz	Mas
+70119	Marta Sanchez	Soy yo
+70117	Malu	Diles
+70066	El Suenyo de Morfeo	El suenyo de morfeo
+70094	La union	Grandes exitos
+70088	Joaquin Sabina	Fisica y quimica
+70061	David Bisbal	Buleria
+70081	Gwendal	Lo mejor de Gwendal
+70172	The Cranberries	Starts The best of 1992-2002
+70127	Medina Azahara	Andalucia
+70075	Eurythmics	Greatest Hits
+70158	Robbie Williams	Greatest Hits
+70174	Within Temptations	The silent force
+70165	Shakira	Oral Fixation Vol 2
+70111	Medina Azahara	XX
+70079	Varios	Gomaespuma - M80
+70013	Antonio Vega	El sitio de mi recreo
+70142	Nacha Pop	X Aniversario
+70050	Coti	Esta manyana y otros cuentos
+70120	Mclan	Defectos Personales
+70114	Miguel Nandez	Miguel Nandez
+70100	Los Rodriguez	Para no olvidar
+70103	Malu	Esta vez
+70118	Manolo Garcia	Para que no se duerman mis sentidos
+70132	Medina Azahara	Tierra de libertad
+70068	El ultimo de la fila	Astronomia razonable
+70133	Melendi	Sin noticias de Holanda
+70154	Revolver	Basico 3
+70052	Celine Dion	A new day has come
+70055	Chayanne	Grandes exitos
+70059	Decai	Y eso es lo que hay
+70171	Tam Tam Go	Miscelanea
+70028	Antonio Vega	Basico
+70047	BSO	La historia interminable
+70096	Varios	Los jovenes flamencos
+70062	David Bisbal	Corazon latino
+70146	Noa	Gold
+70038	BSO	Hermano oso
+70097	La Quinta Estacion	Primera toma
+70067	El tiempo	Zahori
+70124	Medina Azahara	Aixa
+70051	Cristian	Grandes exitos
+70170	Take That	Never Forget The Ultimate Collection
+70085	Juan Luis Guerra	Grandes exitos
+70164	Sergio Dalma	De otro color
+70082	Guarana	Vampiros en la Habana
+70122	Mecano	Aidalai
+70058	David de Maria	Barcos de papel
+70089	La caja de pandora	A nuestra vida otro sentido
+70031	Bangles	Greatest Hits
+70140	Natalie Imbruglia	White Lilies Island
+70034	Bon Jovi	Have a nice day
+70087	Joaquin Sabina	Esta boca es mia
+70137	Modestia Aparte	Vivo
+70023	Amaral	Pajaros en la cabeza
+70134	Melendi	Que el cielo espere sentao
+70010	Annie Lenox	Bare
+70042	Bonnie Tyler	Greatest Hits
+70166	Shania Twain	Come on over
+70026	Anastacia	Not that kind
+70008	Amistades Peligrosas	La larga espera
+70007	Amaral	Una pequenya parte del mundo
+70159	Roxette	Room Service
+70046	BSO	Spirit
+70083	Iguana Tango	Mudando la piel
+70040	Bob Marley	The legend
+70012	Antonio Orozco	Semilla del silencio
+70027	Andy  Y  Lucas	Andy  Y  Lucas
+70049	Chenoa	Nada es igual
+70044	Bryan Adams	So far so good
+70150	OBK	Momentos de fe
+70152	Philp Collins	Testify
+70162	Sacred Spirit	Cantos y danzas de los indios americanos
+70006	Amaral	Amaral
+70126	Medina Azahara	Caravana Espanyola
+70104	Manolo Garcia	Arena en los bolsillos
+70106	Mclan	Sin enchufe
+70032	Andrea Bocelli	Romanza
+70011	Antonio Orozco	El principio del comienzo
+70071	Bruce Springsteen	The essentials
+70020	Ana Belen y Victor Manuel	Mucho mas que dos
+70112	Michael Jackson	The essential
+70009	Antonio Flores	La leyenda de un artista
+70108	Mecano	Ana Jose y Nacho
+70095	Varios	Las 101 mejores canciones del pop espanyol Vol 2
+70116	Varios	Music of the millenium
+70053	Celtas Cortos	Nos vemos en los bares
+70074	Rolling Stones	Varios
+70115	Miliki	A mis ninyos de 30 anyos
+70001	Abba	Gold
+70161	Roxette	The Pop Hits
+70064	Ducan Dhu	Teatro Victoria Eugenia
+70030	BackStreet Boys	Never gone
+70024	Anastacia	Pieces of a dream
+70048	Bebe	Pa fuera las telaranyas
+70130	Medina Azahara	Tanger
+70156	Revolver	Rarezas
+70021	Ana Torroja	Fragil
+70037	Bruce Springsteen	The rising
+70057	Complices	Grandes exitos en directo
+70098	Los limones	Los singles
+70003	Alejandro Sanz	El alma al aire
+70148	OBK	Babylon
+70090	La oreja de Van Gogh	Dile al sol
+70091	La oreja de Van Gogh	El viaje de Copperpot
+70155	Revolver	Mestizo
+70136	Mike Oldfield	Tres lunas
+70149	OBK	Llamalo suenyo
+70125	Medina Azahara	Baladas
+70063	Dover	Devil come to me
+70035	Beth	Otra realidad
+70060	Dido	Life for rent
+70022	Anastacia	Freak of Nature
+70029	Annie Lenox	Medusa
+70017	Alanis Morissette	So-called Chaos
+70077	Genesis	We can t dance
+70151	OBK	Trilogia
+70121	Mecano	Descanso Dominical
+70147	OBK	Antropop
+70036	Bruce Springsteen	We shall overcome
+70169	El suenyo de Morfeo	CD CajaMadrid
+70015	Alanis Morissette	Under Rug Swept
+70014	Alanis Morissette	MTV Unplugged
+70025	Anastacia	Anastacia
